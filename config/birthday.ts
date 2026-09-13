@@ -143,7 +143,7 @@ export const birthdayConfig = {
   ],
 
   password: {
-    secret: "I love you Jaanu",
+    secret: "Jaanu",
     hint: "Enter our special word..."
   },
 
