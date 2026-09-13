@@ -8,7 +8,7 @@ export const birthdayConfig = {
 
   music: {
     enabled: true,
-    src: "https://www.youtube.com/watch?v=kPhpHvnnn0Q&list=RDkPhpHvnnn0Q&start_radio=1"
+    src: "/assets/music/birthday-song.mp3"
   },
 
   timeline: [
