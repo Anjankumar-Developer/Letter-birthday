@@ -15,31 +15,31 @@ export const birthdayConfig = {
     {
       date: "The Beginning",
       title: "Our first Interaction",
-      description: "[I still remember how we got close. You asked me something and there a convo started and it went till this. How beautiful it is that I am destined to be with you from the very beginning. The first person I talked and got humbled was you!!😂😂]",
+      description: "I still remember how we got close. You asked me something and there a convo started and it went till this. How beautiful it is that I am destined to be with you from the very beginning. The first person I talked and got humbled was you!!😂😂",
       image: "/assets/photos/timeline-01.jpg"
     },
     {
       date: "The First Memory",
       title: "A Spark Ignites",
-      description: "[Remember the day I asked for your insta. Damn yar I was really nervous that day. But sometimes I feel bad that why didn't I met you at first. Well maybe right time and right moment made you and me bring to us. I cannot forget the day I feel in love with you!!!!😍❤️🤗🤗]",
+      description: "Remember the day I asked for your insta. Damn yar I was really nervous that day. But sometimes I feel bad that why didn't I met you at first. Well maybe right time and right moment made you and me bring to us. I cannot forget the day I feel in love with you!!!!😍❤️🤗🤗",
       image: "/assets/photos/timeline-02.jpg"
     },
     {
       date: "The Moment",
       title: "When I Knew",
-      description: "[Somewhere between our little conversations, endless laughs, and the way you made ordinary moments feel special, I realized you are the one I want to share my entire life with and I loved being around with you. You had quietly become someone I couldn't imagine my life without.😘❤️❤️😍]",
+      description: "Somewhere between our little conversations, endless laughs, and the way you made ordinary moments feel special, I realized you are the one I want to share my entire life with and I loved being around with you. You had quietly become someone I couldn't imagine my life without.😘❤️❤️😍",
       image: "/assets/photos/timeline-03.jpg"
     },
     {
       date: "Our Favorite Memory",
       title: "Unforgettable",
-      description: "[Trust me baby! I have so many memories with you. Out of them all I love the most are seeing a movie with you which felt so magical and good. I loved the places we visited like all of them, the park, museum, restaurants everything!! I love you when you never stop yourself for someone else.😘😘😘😘]",
+      description: "Trust me baby! I have so many memories with you. Out of them all I love the most are seeing a movie with you which felt so magical and good. I loved the places we visited like all of them, the park, museum, restaurants everything!! I love you when you never stop yourself for someone else.😘😘😘😘",
       image: "/assets/photos/timeline-04.jpg"
     },
     {
       date: "Today",
       title: "Right Here, Right Now",
-      description: "[Right here, right now, I just want you to know that if I had to choose all over again, in every lifetime, every version of my life, I would still find my way back to you. You are my favorite place, my safest feeling, and the person I want beside me through every tomorrow. ❤️❤️❤️❤️😘😘😘😘]",
+      description: "Right here, right now, I just want you to know that if I had to choose all over again, in every lifetime, every version of my life, I would still find my way back to you. You are my favorite place, my safest feeling, and the person I want beside me through every tomorrow. ❤️❤️❤️❤️😘😘😘😘",
       image: "/assets/photos/timeline-05.jpg"
     }
   ],
@@ -108,21 +108,20 @@ export const birthdayConfig = {
   ],
 
   password: {
-    secret: "jaanu",
+    secret: "I love you Jaanu",
     hint: "Enter our special word..."
   },
 
   gift: {
     type: "video", // "video" | "image" | "message"
     src: "/assets/video/surprise.mp4",
-    message: "Your real surprise is waiting for you... Now check your phone ❤️"
+    message: "Your real surprise is waiting for you...❤️"
   },
 
   letter: `Dear Jaanu,
 
 I don't know if words can ever properly explain how much you mean to me...
 
-[WRITE YOUR PERSONAL LETTER HERE - Talk about your journey, how much you appreciate her, and your hopes for the future.]
 
 Happy Birthday, my love.
 
