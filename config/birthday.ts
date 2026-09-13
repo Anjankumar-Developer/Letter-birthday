@@ -52,7 +52,7 @@ export const birthdayConfig = {
   memories: [
     {
       image: "/assets/photos/photo-01.jpeg",
-      caption: "This moment still makes me smile.",
+      caption: "This Picture still makes me smile.",
       date: ""
     },
     {
