@@ -18,7 +18,6 @@
         "name": "next"
       }
     ],
-    "baseUrl": "https://jaanubirthday-rosy.vercel.app",
     "paths": {
       "@/*": ["./*"]
     }

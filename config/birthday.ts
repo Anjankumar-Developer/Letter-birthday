@@ -120,10 +120,76 @@ export const birthdayConfig = {
 
   letter: `Dear Jaanu,
 
-I don't know if words can ever properly explain how much you mean to me...
+I don't know if words can ever properly explain how much you mean to me, but today, on your birthday, I want to try.
+
+Happy Birthday, my love. 🤗😘❤️
+
+You are not just someone I love. You have become such a beautiful part of my life that sometimes I can't even remember what my days felt like before you. You have brought a kind of happiness into my life that I never knew I was missing. Just knowing that you exist, that I get to love you, talk to you, laugh with you, annoy you, and share little pieces of my life with you means more to me than I can ever put into words.
+
+There is something about you that makes everything feel a little more special. Your smile, your voice, the way you talk, the little things you do without even realizing them... somehow, all of it stays with me. Even the smallest moments with you become memories that I want to keep forever.
+
+I wish you could see yourself through my eyes just once. You would understand why I look at you with so much love. You would understand why your smile can instantly make my day better, why hearing from you can change my entire mood, and why even the simplest conversation with you can mean so much to me.
+
+I don't love you only for the beautiful moments. I love you for who you are. For your heart, your little habits, your craziness, your softness, your strength, your imperfections, and every tiny thing that makes you *you*. I don't want some perfect version of you. I want you exactly as you are.
+
+And if life ever gets difficult, I want you to remember that you never have to face it alone. I want to be the person who stands beside you when you're happy, holds you when you're hurting, listens when you need to talk, makes you laugh when you're having a bad day, and reminds you of how incredibly special you are when you forget.
+
+I can't promise that I will always know the perfect thing to say or that everything in life will always be easy. But I can promise you this: my love for you is real. I will keep choosing you, caring for you, supporting you, and loving you through all the little moments that make up our lives.
+
+I hope this new year of your life brings you everything your heart deserves. I hope you smile more, dream bigger, worry less, and experience all the happiness you've ever wished for. And selfishly, I hope I get to be there for as much of it as possible.
+
+One day, when we look back at our lives, I hope we remember these days and smile. I hope we have countless stories to tell, places we've been, stupid things we've laughed about, little arguments we've forgotten, late-night conversations, random adventures, and thousands of ordinary moments that somehow became extraordinary simply because we were together.
+
+You are one of the most beautiful things that has ever happened to me.
+
+Thank you for being you.
+Thank you for coming into my life.
+Thank you for giving me someone to love this deeply.
+
+And if I had to choose all over again, in every lifetime, in every version of this world, I would still find my way back to you.
+
+More than anything, I want you to know that my heart feels at home with you. There is a kind of peace I find in you that I can't explain. When I'm with you, I don't need anything else. I just want to be close to you, hold you a little longer, look into your eyes, hear your voice, and quietly feel grateful that somehow, out of all the people in this world, I found you.
+
+I want to know every version of you. The happy you, the sleepy you, the stubborn you, the emotional you, the silly you, the quiet you, and even the version of you that thinks she's difficult to love. I want all of it. I want the little things that nobody else notices. I want your random thoughts, your late-night talks, your laughter, your silence, your hugs, your hand in mine, and all those tiny moments that belong only to us.
+
+And if I could have one wish tonight, it wouldn't be for anything for myself.
+
+It would be for more time with you.
+
+More mornings where I get to wake up knowing you're mine. More nights where I get to hear your voice before we fall asleep. More hugs where neither of us wants to let go first. More kisses that make the whole world disappear for a moment. More laughing until our stomachs hurt. More quiet moments where we don't even have to say anything because just being beside each other is enough.
+
+I want to make you feel loved in all the ways words can't. I want my arms to be your safe place, my presence to be your comfort, and my love to be something you never have to question.
+
+So on your birthday, my beautiful girl, I just want to tell you this one more time:
+
+I love you.
+
+Not just when you're smiling.
+Not just when everything is perfect.
+I love you on your ordinary days, your difficult days, your messy days, and every day in between.
+
+I love the way you have found a place in my heart that nobody else could ever take.
+
+And if someday you ever wonder how much you mean to me, come a little closer, put your head on my chest, and let me hold you. Maybe then you'll hear what my words could never fully say.
+
+You are my Jaanu.
+My love.
+My favorite person.
+And, in the quietest and deepest part of my heart, you are home.
+
+I LOVE YOU SOO MUCH BABYYYYY. 😘😘😘❤️
+
+I hope I get to spend countless birthdays loving you, holding you, kissing you, annoying you, and reminding you just how precious you are to me.
+
+Until then, keep this heart of mine safe.
+
+Because it's yours.
+
+Completely.
+
+Always. 🤗😘❤️
 
 
-Happy Birthday, my love.
 
 ❤️`,
 
