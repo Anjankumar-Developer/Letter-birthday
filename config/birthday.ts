@@ -46,12 +46,12 @@ export const birthdayConfig = {
 
   memories: [
     {
-      image: "/assets/photos/photo-01.jpg",
+      image: "/assets/photos/photo-01.JPG",
       caption: "This moment still makes me smile.",
       date: "[Date here]"
     },
     {
-      image: "/assets/photos/photo-02.jpg",
+      image: "/assets/photos/photo-02.DNG",
       caption: "I wish I could relive this day.",
       date: "[Date here]"
     },
