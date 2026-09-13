@@ -23,15 +23,21 @@ function useAudio(url: string) {
     };
   }, [url]);
 
-  const toggle = () => {
+  const toggle = async () => {
     const audio = audioRef.current;
     if (!audio) return;
     if (playing) {
       audio.pause();
+      setPlaying(false);
     } else {
-      audio.play().catch(e => console.log('Audio playback failed', e));
+      try {
+        await audio.play();
+        setPlaying(true);
+      } catch (error) {
+        console.error('Audio playback failed', error);
+        setPlaying(false);
+      }
     }
-    setPlaying(!playing);
   };
 
   return { playing, toggle };
