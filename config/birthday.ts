@@ -53,47 +53,47 @@ export const birthdayConfig = {
     {
       image: "/assets/photos/photo-01.jpeg",
       caption: "This moment still makes me smile.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-02.jpg",
       caption: "I wish I could relive this day.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-03.jpg",
       caption: "One of my favorite memories with you.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-04.jpg",
       caption: "Another beautiful memory with you.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-05.jpg",
       caption: "A moment I will always keep close to my heart.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-06.jpg",
       caption: "Every memory with you feels special.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-07.jpg",
       caption: "Another day I would love to relive with you.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-08.jpg",
       caption: "One more memory that means so much to me.",
-      date: "[Date here]"
+      date: ""
     },
     {
       image: "/assets/photos/photo-09.jpg",
       caption: "A memory I will treasure forever.",
-      date: "[Date here]"
+      date: ""
     }
   ],
 
