@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 20px rgba(244, 63, 94, 0.4);
+  }
+  .box-glow {
+    box-shadow: 0 0 30px rgba(244, 63, 94, 0.15);
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* Elegant dark mode base */
+  background-color: #050505;
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(76, 29, 149, 0.05), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(225, 29, 72, 0.05), transparent 25%);
+  background-attachment: fixed;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f3f;
+}
+
+/* Utilities for photo Polaroid aesthetic */
+.polaroid {
+  background: #fff;
+  padding: 10px 10px 40px 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  border-radius: 2px;
+}

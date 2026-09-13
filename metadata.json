@@ -1,0 +1,6 @@
+{
+  "name": "For My Jaanu ❤️",
+  "description": "A personal cinematic birthday surprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
