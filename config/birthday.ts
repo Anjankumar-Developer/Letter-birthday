@@ -84,6 +84,11 @@ export const birthdayConfig = {
       image: "/assets/photos/photo-08.jpg",
       caption: "One more memory that means so much to me.",
       date: "[Date here]"
+    },
+    {
+      image: "/assets/photos/photo-09.jpg",
+      caption: "A memory I will treasure forever.",
+      date: "[Date here]"
     }
   ],
 
