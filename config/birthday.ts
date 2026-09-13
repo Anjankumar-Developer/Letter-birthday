@@ -14,32 +14,32 @@ export const birthdayConfig = {
   timeline: [
     {
       date: "The Beginning",
-      title: "When Our Paths Crossed",
-      description: "[Write how we first met or started talking. Example: That random evening that turned into the start of everything.]",
+      title: "Our first Interaction",
+      description: "[I still remember how we got close. You asked me something and there a convo started and it went till this. How beautiful it is that I am destined to be with you from the very beginning. The first person I talked and got humbled was you!!😂😂]",
       image: "/assets/photos/timeline-01.jpg"
     },
     {
       date: "The First Memory",
       title: "A Spark Ignites",
-      description: "[Write the first memory here. Example: The first time we really laughed together.]",
+      description: "[Remember the day I asked for your insta. Damn yar I was really nervous that day. But sometimes I feel bad that why didn't I met you at first. Well maybe right time and right moment made you and me bring to us. I cannot forget the day I feel in love with you!!!!😍❤️🤗🤗]",
       image: "/assets/photos/timeline-02.jpg"
     },
     {
       date: "The Moment",
       title: "When I Knew",
-      description: "[Write the moment when you realized how important she is to you.]",
+      description: "[Somewhere between our little conversations, endless laughs, and the way you made ordinary moments feel special, I realized you are the one I want to share my entire life with and I loved being around with you. You had quietly become someone I couldn't imagine my life without.😘❤️❤️😍]",
       image: "/assets/photos/timeline-03.jpg"
     },
     {
       date: "Our Favorite Memory",
       title: "Unforgettable",
-      description: "[Write your absolute favorite memory together.]",
+      description: "[Trust me baby! I have so many memories with you. Out of them all I love the most are seeing a movie with you which felt so magical and good. I loved the places we visited like all of them, the park, museum, restaurants everything!! I love you when you never stop yourself for someone else.😘😘😘😘]",
       image: "/assets/photos/timeline-04.jpg"
     },
     {
       date: "Today",
       title: "Right Here, Right Now",
-      description: "[Write what she means to you today.]",
+      description: "[Right here, right now, I just want you to know that if I had to choose all over again, in every lifetime, every version of my life, I would still find my way back to you. You are my favorite place, my safest feeling, and the person I want beside me through every tomorrow. ❤️❤️❤️❤️😘😘😘😘]",
       image: "/assets/photos/timeline-05.jpg"
     }
   ],
@@ -59,27 +59,33 @@ export const birthdayConfig = {
       image: "/assets/photos/photo-03.jpg",
       caption: "One of my favorite memories with you.",
       date: "[Date here]"
-    },
-    {
-      image: "/assets/photos/photo-04.jpg",
-      caption: "Your smile here is everything.",
-      date: "[Date here]"
     }
   ],
 
   reasons: [
-    "Because you make ordinary days feel special.",
-    "Your smile.",
-    "The way you care about the little things.",
-    "Your laugh, especially when it's unexpected.",
-    "The way you understand me without me saying a word.",
-    "Your kindness to everyone around you.",
-    "Your comforting presence.",
-    "All the late-night conversations and memories.",
-    "Your beautiful weirdness that matches mine.",
-    "Your endless patience with me.",
-    "The way you make me feel like I can conquer the world.",
-    "Simply because you're you, and there's no one else I'd rather be with."
+    "Because you make even the most ordinary days feel like something worth remembering.",
+
+"Your smile, because somehow it has the power to make everything around me feel a little brighter.",
+
+"The way you understand me, sometimes without me having to say a single word.",
+
+"Your laugh, especially the unexpected ones that make me fall for you all over again.",
+
+"The way you care about the smallest things, because it shows me just how beautiful your heart really is.",
+
+"Because with you, I never feel like I have to pretend to be someone I'm not. I can simply be me.",
+
+"Your comforting presence, because somehow everything feels a little easier when you're around.",
+
+"All our late-night conversations, silly moments, little fights, and countless memories that have slowly become some of my favorite parts of life.",
+
+"Because you make me want to become a better person, not because you ask me to, but because loving you makes me want to be worthy of you.",
+
+"Because I don't just love the big moments with you. I love the tiny ones too, the random conversations, the quiet moments, and all the little things only we understand.",
+
+"Because somewhere along the way, you stopped being just someone I love and became my favorite person, my comfort, and the one I want beside me through everything.",
+
+"Simply because you're you. And if I had to choose again, in every version of this life, I'd still choose you. ❤️"
   ],
 
   secrets: [
