@@ -149,7 +149,7 @@ export const birthdayConfig = {
 
   gift: {
     type: "video", // "video" | "image" | "message"
-    src: "/assets/photos/video-01.mp4",
+    src: "/assets/photos/video-02.mp4",
     message: "Your real surprise is waiting for you...❤️"
   },
 
