@@ -709,7 +709,7 @@ function LoveLetter({ onRead }: { onRead: () => void }) {
       const timeout = setTimeout(() => {
         setDisplayedText(prev => prev + text.charAt(index));
         setIndex(index + 1);
-      }, 30); // Typing speed
+      }, 10); // Typing speed
       return () => clearTimeout(timeout);
     } else {
       // eslint-disable-next-line react-hooks/set-state-in-effect
