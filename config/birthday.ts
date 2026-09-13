@@ -11,12 +11,17 @@ export const birthdayConfig = {
     src: "/assets/music/birthday-song.mp3"
   },
 
+  memoryVideo: {
+    title: "Us being Us ❤️❤️❤️😘😘",
+    src: "/assets/photos/video-01.mp4"
+  },
+
   timeline: [
     {
       date: "The Beginning",
       title: "Our first Interaction",
       description: "I still remember how we got close. You asked me something and there a convo started and it went till this. How beautiful it is that I am destined to be with you from the very beginning. The first person I talked and got humbled was you!!😂😂",
-      image: "/assets/photos/timeline-01.jpg"
+      image: "/assets/photos/timeline-01.JPG"
     },
     {
       date: "The First Memory",
@@ -28,13 +33,13 @@ export const birthdayConfig = {
       date: "The Moment",
       title: "When I Knew",
       description: "Somewhere between our little conversations, endless laughs, and the way you made ordinary moments feel special, I realized you are the one I want to share my entire life with and I loved being around with you. You had quietly become someone I couldn't imagine my life without.😘❤️❤️😍",
-      image: "/assets/photos/timeline-03.jpg"
+      image: "/assets/photos/timeline-03.JPG"
     },
     {
       date: "Our Favorite Memory",
       title: "Unforgettable",
       description: "Trust me baby! I have so many memories with you. Out of them all I love the most are seeing a movie with you which felt so magical and good. I loved the places we visited like all of them, the park, museum, restaurants everything!! I love you when you never stop yourself for someone else.😘😘😘😘",
-      image: "/assets/photos/timeline-04.jpg"
+      image: "/assets/photos/timeline-04.JPG"
     },
     {
       date: "Today",
@@ -46,12 +51,12 @@ export const birthdayConfig = {
 
   memories: [
     {
-      image: "/assets/photos/photo-01.JPG",
+      image: "/assets/photos/photo-01.jpeg",
       caption: "This moment still makes me smile.",
       date: "[Date here]"
     },
     {
-      image: "/assets/photos/photo-02.DNG",
+      image: "/assets/photos/photo-02.jpg",
       caption: "I wish I could relive this day.",
       date: "[Date here]"
     },
@@ -144,7 +149,7 @@ export const birthdayConfig = {
 
   gift: {
     type: "video", // "video" | "image" | "message"
-    src: "/assets/video/surprise.mp4",
+    src: "/assets/photos/video-01.mp4",
     message: "Your real surprise is waiting for you...❤️"
   },
 

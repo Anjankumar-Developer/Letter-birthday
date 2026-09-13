@@ -383,6 +383,32 @@ function MemoryGallery() {
   );
 }
 
+function UsBeingUsVideo() {
+    return (
+      <section className="bg-black px-6 py-24">
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="mx-auto w-full max-w-6xl"
+        >
+          <h2 className="mb-10 text-center font-serif text-4xl text-white md:text-5xl">
+            {birthdayConfig.memoryVideo.title}
+          </h2>
+          <div className="relative aspect-video w-full overflow-hidden rounded-2xl border border-white/10 bg-zinc-900 shadow-2xl">
+            <video
+              src={birthdayConfig.memoryVideo.src}
+              controls
+              playsInline
+              preload="metadata"
+              className="h-full w-full object-contain"
+            />
+          </div>
+        </motion.div>
+      </section>
+    );
+  }
+
 // 5. Reasons Why I Love You
 function LoveReasons() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -889,6 +915,7 @@ export default function BirthdayApp() {
           <Hero onNext={() => window.scrollTo({ top: window.innerHeight, behavior: 'smooth' })} />
           <StoryTimeline />
           <MemoryGallery />
+          <UsBeingUsVideo />
           <LoveReasons />
           
           {!huntCompleted ? (
