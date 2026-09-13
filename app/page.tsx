@@ -707,8 +707,9 @@ function LoveLetter({ onRead }: { onRead: () => void }) {
   useEffect(() => {
     if (index < text.length) {
       const timeout = setTimeout(() => {
-        setDisplayedText(prev => prev + text.charAt(index));
-        setIndex(index + 1);
+        const nextIndex = Math.min(index + 8, text.length);
+        setDisplayedText(text.slice(0, nextIndex));
+        setIndex(nextIndex);
       }, 10); // Typing speed
       return () => clearTimeout(timeout);
     } else {
