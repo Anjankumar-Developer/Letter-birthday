@@ -529,7 +529,7 @@ function SecretHunt({ onComplete }: { onComplete: () => void }) {
           return (
             <motion.div
               key={index}
-              className={`absolute cursor-pointer pointer-events-auto p-4 transition-all duration-700 ${isFound ? 'opacity-10 scale-150 text-white' : 'opacity-10 hover:opacity-100 text-zinc-600 hover:text-rose-400 hover:scale-110'}`}
+              className={`secret-icon-glow absolute cursor-pointer pointer-events-auto p-4 transition-all duration-700 ${isFound ? 'opacity-10 scale-150 text-white' : 'opacity-10 hover:opacity-100 text-zinc-600 hover:text-rose-400 hover:scale-110'}`}
               style={positions[index]}
               onClick={() => handleFind(index)}
               whileHover={{ rotate: [0, -10, 10, -10, 0] }}
